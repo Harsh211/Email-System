@@ -75,7 +75,7 @@
 						<br>
 					
 					    <label for="email">User Id:</label>
-					    <input type="email" class="form-control" id="email" name="t3">
+					    <input type="email" class="form-control" id="email" placeholder="eg:- abc@mailcircle.com" name="t3">
 					 	<br>
 					
 					    <label for="pwd">Password:</label>
