@@ -340,26 +340,13 @@ while($row = mysqli_fetch_array($res))
 				  </div>
 				</div>
 
-<!--COMPOSE MAIL ENDS-->
-
-<!--OPEN SENT MAILS-->
-
-<!--CLOSE SENT MAILS-->
-
 
      		</div>
     	</div>
     	</div>
-<!--Navbar Content ends-->    	    
-
-<!--**************-->
-
-<!--**************-->
 
 	</div>
 </div>
-
-
 
 	</body>
 </html>	
